@@ -1,5 +1,5 @@
 <h1 align="center">Hey there, I'm Melissa Mae!</h1>
-<h3 align="center">🐾 Creating magic with designing and coding as a frontend enthusiast 🐾</h3>
+<h3 align="center">🐾 Creating magic with designing and coding as a frontend and a UI/UX design enthusiast 🐾</h3>
 
 <img align="center"><img src="https://user-images.githubusercontent.com/74038190/212750155-3ceddfbd-19d3-40a3-87af-8d329c8323c4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=melissamae-sudo&label=Profile%20views&color=0e75b6&style=flat" alt="melissamae-sudo" /> </p>
